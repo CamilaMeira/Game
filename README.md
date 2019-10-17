@@ -1,2 +1,2 @@
-# Game
+# Games
 Pedra papel  tesoura
